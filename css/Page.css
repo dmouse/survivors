@@ -1,0 +1,96 @@
+body {
+	padding: 0px;
+  border: 0px;
+  font-family: Tahoma;
+  margin: 0px;
+	background-color: #ece8e9;
+	font-size: 30px;
+}
+
+hr {
+	position: absolute;
+	left: 325px;
+	color: black;
+	width: 800px;
+}
+
+#aside {
+	float: left;
+}
+
+#nav {
+	float: left;
+
+}
+.left {
+	float: left;
+	width: 360px;
+}
+.right {
+	float: left;
+}
+
+.tahoma {
+  color: #d77936;
+  margin-left: 25px;
+}
+
+.tahoma1 {
+  color: #000;
+  text-align: right;
+}
+
+.tahoma2 {
+  color: #d77936;
+  text-align: right;
+}
+
+.fecha {
+	color: gray;
+	float: left;
+	max-height: 75px;
+	text-align: center;
+	width: 100px;
+}
+
+.mes {
+	font-size: 26px;
+}
+
+.notas {
+	color: gray;
+	float: left;
+	max-height: 75px;
+	text-align: left;
+	width: 400px;
+}
+
+.nota {
+	font-size: 16px;
+}
+
+li {
+  list-style: none;
+  color: white;
+}
+
+nav {
+  background-color: black;
+  float: left;
+  width: 300px;
+}
+
+a,
+p {
+	text-decoration: none;
+	color: #ffffff;
+}
+
+a:hover {
+	color: red;
+}
+
+.nota p{
+	color: gray;
+}
+

@@ -1,8 +1,8 @@
 body {
 	padding: 0px;
-  border: 0px;
-  font-family: Tahoma;
-  margin: 0px;
+    border: 0px;
+    font-family: Tahoma;
+    margin: 0px;
 	background-color: #ece8e9;
 	font-size: 30px;
 }
@@ -18,10 +18,8 @@ hr {
 	float: left;
 }
 
-#nav {
-	float: left;
+	
 
-}
 .left {
 	float: left;
 	width: 360px;
@@ -69,22 +67,22 @@ hr {
 	font-size: 16px;
 }
 
-li {
+nav li a,
+p {
   list-style: none;
+  font-style: bold;
   color: white;
+  text-decoration: none;
 }
 
 nav {
-  background-color: black;
+  text-align: center;
+  width: 30%;
+  background-image: url(../images/fondomenulateral.jpg);
   float: left;
-  width: 300px;
+
 }
 
-a,
-p {
-	text-decoration: none;
-	color: #ffffff;
-}
 
 a:hover {
 	color: red;
@@ -93,4 +91,5 @@ a:hover {
 .nota p{
 	color: gray;
 }
+
 
